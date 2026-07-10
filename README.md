@@ -31,7 +31,7 @@ Below is a simple ASCII art representation of how these programs form a connecte
 - Q: QR Code Generator
 - M: Madlibs
 - S: Story Generator
-- Quiz Game (Q) fits both Games and Creativity!
+- Quiz Game (Q) fits both Games and Creativity!.
 
 How to Use
 
