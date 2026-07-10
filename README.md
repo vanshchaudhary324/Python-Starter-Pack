@@ -44,5 +44,6 @@ This program suite was created by Vansh Chaudhary. For inquiries or collaboratio
 
 Email: vanshchaudhary91165@gmail.com  
 INSTAGRAM: _v_lucien 
+PERSONAL INSTAGRAM : vansh_84x
 
 Enjoy exploring this diverse program suite!
