@@ -43,6 +43,6 @@ About
 This program suite was created by Vansh Chaudhary. For inquiries or collaboration, feel free to reach out:
 
 Email: vanshchaudhary91165@gmail.com  
-GitHub: vanshchaudhary324
+INSTAGRAM: _v_lucien 
 
 Enjoy exploring this diverse program suite!
